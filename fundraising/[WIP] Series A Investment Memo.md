@@ -27,7 +27,7 @@ IOMETE deliberately built the runway first. Now the constraint is no longer "can
 
 This is not "on-prem tooling." It is a new category. IOMETE brings cloud architecture to private infrastructure: consistent governance, a unified platform experience, and the ability to serve multiple tenants and sites as one organizational system.
 
-There is a structural **competitive vacuum** in this market. Public cloud data platforms are optimized for AWS, Azure, and GCP. Their sales teams generate higher commissions from single Fortune 500 cloud deals than from building government cloud partnerships. IOMETE goes where they will not — and where the demand is growing fastest.
+There is a structural **competitive vacuum** in this market. Public cloud data platforms are architecturally tied to hyperscaler infrastructure. Serving private and government clouds would require rebuilding their product and cannibalizing their core consumption-based business model. IOMETE goes where they will not — and where the demand is growing fastest.
 
 IOMETE serves three cloud environments:
 
